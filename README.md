@@ -11,6 +11,10 @@ Required url parameters:
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5a7fa4fc-d6fa-465e-b731-3fbbe21dffa0/deploy-status)](https://app.netlify.com/sites/navidrome-embed/deploys)
 
+
+![image](https://user-images.githubusercontent.com/1159009/147438049-05aa5ccc-76d8-41e1-8d2f-3d916f4a3ff5.png)
+
+
 #Development
 
 ## Usage
